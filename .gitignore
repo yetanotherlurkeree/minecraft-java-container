@@ -1,2 +1,5 @@
 minecraftv2/server.jar
 minecraftv2/whitelist.json
+minecraftv2/banned-ips.json
+minecraftv2/banned-players.json
+minecraftv2/usercache.json
